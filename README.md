@@ -1,28 +1,25 @@
-# Travel-Agency-Booking-System---Frontend
-Travel Agency Booking System - Frontend
 # Travel Agency Booking System - Frontend
 
 ## Description
-This is the frontend part of the Travel Agency Booking System built using React.js, Next.js, and TailwindCSS. It allows users to browse packages, book them, view their profiles, and for admins, manage packages and bookings.
+This is the frontend part of the Travel Agency Booking System built using React.js, Next.js, and TailwindCSS. It allows users to browse and book tour packages, and for admins, manage packages and view bookings.
 
 ## Features
 - **User Features**:
-  - Register/Login
-  - View available packages
+  - View available tour packages
   - Book a package
-  - View and update profile
-  - View and cancel bookings
 
 - **Admin Features**:
   - View all bookings
   - Add, update, and delete tour packages
-  - Manage user bookings
+  - View and manage all user bookings
   
 ## Technologies Used
 - **React.js** - JavaScript library for building the user interface
-- **Next.js** - React framework for server-side rendering
+- **expressjs** - server-side rendering
 - **TailwindCSS** - Utility-first CSS framework
 - **Axios** - For making API requests to the backend
+
+
 
 ## Installation
 
