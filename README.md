@@ -15,7 +15,6 @@ This is the frontend part of the Travel Agency Booking System built using React.
   
 ## Technologies Used
 - **React.js** - JavaScript library for building the user interface
-- **Next.js** - React framework for server-side rendering
 - **TailwindCSS** - Utility-first CSS framework
 - **Axios** - For making API requests to the backend
 
