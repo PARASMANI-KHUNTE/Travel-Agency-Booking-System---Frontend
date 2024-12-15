@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'http://localhost:5000', // Update with your backend's URL
+    baseURL: 'https://travel-agency-booking-system-backend.onrender.com', // Update with your backend's URL
 });
 
 // Interceptor for logging errors (optional)
