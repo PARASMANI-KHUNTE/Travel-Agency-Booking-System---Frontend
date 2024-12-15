@@ -1,8 +1,27 @@
-# React + Vite
+# Travel Agency Booking System - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is the frontend part of the Travel Agency Booking System built using React.js, Next.js, and TailwindCSS. It allows users to browse and book tour packages, and for admins, manage packages and view bookings.
 
-Currently, two official plugins are available:
+## Features
+- **User Features**:
+  - View available tour packages
+  - Book a package
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Admin Features**:
+  - View all bookings
+  - Add, update, and delete tour packages
+  - View and manage all user bookings
+  
+## Technologies Used
+- **React.js** - JavaScript library for building the user interface
+- **Next.js** - React framework for server-side rendering
+- **TailwindCSS** - Utility-first CSS framework
+- **Axios** - For making API requests to the backend
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/PARASMANI-KHUNTE/Travel-Agency-Booking-System---Frontend
