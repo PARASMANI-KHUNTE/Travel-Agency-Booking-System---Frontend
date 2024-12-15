@@ -29,4 +29,4 @@ This is the frontend part of the Travel Agency Booking System built using React.
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/PARASMANI-KHUNTE/Travel-Agency-Booking-System---Frontend
